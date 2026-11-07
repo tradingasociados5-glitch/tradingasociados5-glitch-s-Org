@@ -1,0 +1,8 @@
+{
+  "name": "Michelle Pérez Nails",
+  "description": "Bienvenida a Michelle Pérez Nails, tu espacio de cuidado y belleza de uñas en Pereira. Nos especializamos en brindar una experiencia relajante con servicios de manicura y pedicura realizados con la máxima atención al detalle y productos de excelencia.   ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
